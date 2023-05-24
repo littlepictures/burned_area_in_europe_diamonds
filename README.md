@@ -72,8 +72,8 @@ Note you can also use the JupyterLab's **Git** extension (left side bar) to upda
 - Finally, a similar chart is created but with diamond-shaped markers, offering another perspective on the data.
 
 ## CREDITS & LICENSE
-- Idea by: [INSTITUTION](https://climate.esa.int/)
-- Processing Scripts by: [INSTITUTION](https://climate.esa.int/)
-- Visualization by: [INSTITUTION](https://climate.esa.int/)
+- Idea by: [Ubilabs](https://www.ubilabs.com/)
+- Processing Scripts by: [Brockmann Consult](https://www.brockmann-consult.de/)
+- Visualization by: [Ubilabs](https://www.ubilabs.com/)
 
 The code in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
