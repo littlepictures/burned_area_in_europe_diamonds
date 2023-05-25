@@ -1,4 +1,4 @@
-# CLIP - Fire Bubbles
+# CLIP - Fire Bubbles Poster
 
 ## Background on this CLIP
 This repository contains a Jupyter notebook that analyzes the Fire_CCI Burned Area data for European countries. The data represents the area of land that has been burned due to wildfires, and these measurements are taken from the MODIS instrument. It creates a bubble plot visualization that enables the viewer to interpret fire location and intensity over time.
