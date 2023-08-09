@@ -1,4 +1,4 @@
-# CLIP - Fire Bubbles Poster
+# little picture - burned area in europe - diamonds
 
 ## Background on this little picture
 _satellites are key to detecting burned area left after fire disturbance on a global and national scale_
