@@ -62,7 +62,7 @@ git pull --rebase
 
 Note you can also use the JupyterLab's **Git** extension (left side bar) to update the repos.
 
-## Creating Visualizations
+## Creating Visualisations
 - Load the data from the CSV file 'ba-europe-countries.csv' into a pandas DataFrame.
 - Drop certain countries (Europe, Belarus, Ukraine, and Luxembourg) from the DataFrame due to their disproportionate sizes.
 - Melt the DataFrame from a wide format to a long format to simplify the visualization process.
